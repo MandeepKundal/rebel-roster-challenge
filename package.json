@@ -1,0 +1,20 @@
+{
+  "name": "rebel-roster-challenge",
+  "version": "1.0.0",
+  "description": "Roster Challenge by Rebel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Mandeep Kundal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
