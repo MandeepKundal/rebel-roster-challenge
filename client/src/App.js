@@ -7,7 +7,6 @@ import Button from 'react-bootstrap/Button';
 import axios from 'axios';
 
 import { API_BASE_URL } from './config';
-import './App.css';
 
 function App() {
   const [artists, setArtists] = useState([]);

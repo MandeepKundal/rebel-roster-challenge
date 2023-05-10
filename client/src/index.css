@@ -1,15 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body, html {
+  width: 100%;
+  height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+font-family: 'Raleway', Arial, sans-serif;
+-webkit-tap-highlight-color: #222222;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Raleway', Arial, sans-serif;
+}
+
+h5 {
+font-style: italic;
+}
+
+h1 {
+  color: #F05F40;
+}
+
+th {
+  color: rgb(95, 95, 95);
 }
 
 .footer {
