@@ -26,12 +26,12 @@ Let's look at how to get the code running.
 
 ### Starting the web application
 
-The [repository]((https://github.com/MandeepKundal/rebel-roster-challenge.git) 
+The [repository](https://github.com/MandeepKundal/rebel-roster-challenge.git) 
 is available on GitHub. To clone it open a terminal to a directory of your
 choosing and run the following command:
 
 ```bash
-git clone (https://github.com/MandeepKundal/rebel-roster-challenge.git
+git clone https://github.com/MandeepKundal/rebel-roster-challenge.git
 ```
 
 Now we'll have the code in the directory `rebel-roster-challenge` directly under our
