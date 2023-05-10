@@ -17,6 +17,10 @@ The following functionality has been built:
 - Backend: Node/Express
 - Storage: MongoDB Atlas
 
+Here is a screenshot of the application:
+
+![Screenshot of Streaming Royalties Calculator](roster-challenge.png "Screenshot of Streaming Royalties Calculator")
+
 Let's look at how to get the code running.
 ### Requirements
 
